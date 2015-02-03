@@ -1,0 +1,6 @@
+;;; turtle.meta
+((author "yagihiroki")
+ (synopsis "simple turtle graphics")
+ (license "GPLv3")
+ (files "turtle.scm" "turtle.setup"))
+ 

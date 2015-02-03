@@ -1,0 +1,11 @@
+;;; turtle.setup
+
+;;; コンパイル
+(compile -s -O3 -d1 "turtle.scm" -j turtle)
+(compile -s -O3 -d0 "turtle.import.scm")
+
+;;; インストール
+(install-extension
+ 'turtle
+ '("turtle.so" "turtle.import.so")
+ '((version 1.0)))
