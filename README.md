@@ -7,7 +7,7 @@ $ chicken-install
 ```
 
 ```scheme
-(use turtle)
+csi> (use turtle)
 ```
 
 ##Requirements
