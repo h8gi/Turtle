@@ -1,9 +1,15 @@
 #turtle
 chicken-scheme用のシンプルなタートルグラフィックスライブラリです
 ##Usage
+
+``` shell
+$ chicken-install turtle
+```
+
 ```scheme
 (use turtle)
 ```
+
 ##Requirements
 [ezxdisp](http://wiki.call-cc.org/eggref/4/ezxdisp "ezxdisp")  
 ちょっとしたグラフィックをいじるのにちょうどいいeggです  
