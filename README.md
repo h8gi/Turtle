@@ -3,7 +3,7 @@ chicken-scheme用のシンプルなタートルグラフィックスライブラ
 ##Usage
 
 ``` shell
-$ chicken-install turtle
+$ chicken-install
 ```
 
 ```scheme
